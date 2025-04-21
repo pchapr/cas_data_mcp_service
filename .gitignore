@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ignore data folder for data files
+data
+# ignore export folder as well
+export
+#ignore data.csv
+data.csv
